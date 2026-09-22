@@ -11,9 +11,9 @@ title                    : "Hazem Younis"
 title_separator          : "-"
 name                     : &name "Hazem Younis"
 description              : &description "Ph.D. Candidate in Computer Engineering at The University of Texas at Dallas"
-url                      : "https://hazem-af-younis.github.io"
+url                      : "https://hazem af younis.github.io"
 baseurl                  : "/HazemYounis"
-repository               : "hazem-af-younis/HazemYounis"
+repository               : "hazem af younis/HazemYounis"
 teaser                   :
 breadcrumbs              : false
 words_per_minute         : 160
@@ -92,7 +92,7 @@ author:
   flickr                 :
   facebook               :
   foursquare             :
-  github                 : "hazem-af-younis"
+  github                 : "hazem af younis"
   google_plus            :
   keybase                :
   instagram              :
@@ -250,7 +250,6 @@ whitelist:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
   - jemoji
 
 # Archives
